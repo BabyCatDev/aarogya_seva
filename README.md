@@ -50,8 +50,6 @@ const String newsApiKey = 'YOUR_API_KEYS_HERE';
 - [delayed_display](https://pub.dev/packages/delayed_display)
 - [shared_preferences](https://pub.dev/packages/delayed_display)
 
-```
-
 
 
 
